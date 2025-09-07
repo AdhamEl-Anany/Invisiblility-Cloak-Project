@@ -52,4 +52,3 @@ Notes:
 - Avoid wearing other items of the same cloak color.
 - Resolution defaults to 640x480 for smooth performance.
   
-========================================================
