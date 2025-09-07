@@ -51,4 +51,5 @@ Notes:
 - Works best in good lighting with a solid-colored cloak.
 - Avoid wearing other items of the same cloak color.
 - Resolution defaults to 640x480 for smooth performance.
+  
 ========================================================
